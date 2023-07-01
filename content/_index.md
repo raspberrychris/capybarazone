@@ -4,7 +4,7 @@ description: >-
   Everything you need to know about Capybaras!
 ---
 
-Welcome to Capybara Zone! 🌿
+## Capabara Zone: Dive into the World of Giant Rodents! 🌿
 
 The land of Capybaras awaits you, where curiosity and learning go hand in paw. Capybara Zone is your one-stop destination for discovering [fascinating facts about capybaras](/capybarazone/content/Blog/capybara-facts.md), adorable pictures, and incredible tales about the world's largest rodent—the captivating Capybara!
 
