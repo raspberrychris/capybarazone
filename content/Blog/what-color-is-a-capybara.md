@@ -1,0 +1,5 @@
+---
+title: What-Color-Is-A-Capybara
+---
+
+A capybara is a large rodent native to South America and is the largest living rodent in the world. The capybara is a semi-aquatic mammal and is well-adapted to living in and around water. It has a heavy, barrel-shaped body covered in thick, coarse fur that is usually a reddish-brown color. The fur is often darker on the back and lighter on the underside. The capybara also has a short, thick tail and small ears. Its head is large and round with a blunt muzzle and short, thick legs. The feet are webbed, enabling the capybara to swim quickly and efficiently. Its eyes are small and its ears are slightly pointed. The capybara has four toes on each front foot and three on each hind foot. The fur of a capybara can vary in color from yellowish-brown to dark brown, and some individuals may have a grayish tinge.
