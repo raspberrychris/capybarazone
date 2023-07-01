@@ -24,7 +24,7 @@ fingerprintAlgorithm = "sha256"
 
 [footer]
   showCopyright = true
-  showThemeAttribution = true
+  showThemeAttribution = false
   showAppearanceSwitcher = false
   showScrollToTop = true
 
@@ -53,9 +53,9 @@ fingerprintAlgorithm = "sha256"
   # sharingLinks = ["facebook", "twitter", "mastodon", "pinterest", "reddit", "linkedin", "email"]
 
 [list]
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showSummary = false
-  showTableOfContents = false
+  showTableOfContents = true
   showTaxonomies = false
   groupByYear = true
   paginationWidth = 1
