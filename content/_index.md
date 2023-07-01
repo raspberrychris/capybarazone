@@ -2,6 +2,8 @@
 title: Capybara Zone
 description: >-
   Everything you need to know about Capybaras!
+toc: true
+
 ---
 
 ## Capabara Zone: Dive into the World of Giant Rodents! 🌿
