@@ -1,5 +1,5 @@
 ---
-title: How-Fast-Can-Capybara-Run
+title: How Fast Can Capybara Run
 ---
 
 Capybaras are semi-aquatic rodents native to South America, and they are the largest rodents in the world. They are generally slow-moving animals, but they can run at speeds of up to 35 km/h (22 mph) when threatened or when chasing prey. They can also swim at speeds of up to 8 km/h (5 mph).

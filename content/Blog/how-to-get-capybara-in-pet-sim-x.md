@@ -1,5 +1,5 @@
 ---
-title: How-To-Get-Capybara-In-Pet-Sim-X
+title: How To Get Capybara In Pet Sim X
 ---
 
 Getting Capybara in Pet Sim X is a relatively straightforward process. First, you will need to purchase the Pet Sim X Expansion Pack. This will give you access to the Capybara pet. Once you have the expansion pack, you can access the Capybara pet from the pet selection menu. You will need to select the expansion pack icon, which looks like a paw print, and then select the Capybara pet from the list of available pets. 

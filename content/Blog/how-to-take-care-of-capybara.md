@@ -1,5 +1,5 @@
 ---
-title: How-To-Take-Care-Of-Capybara
+title: How To Take Care Of Capybara
 ---
 
 Taking care of a capybara is not difficult, but it does require dedication and patience. The most important thing to remember when caring for a capybara is that they require a lot of space. A capybara needs an enclosure that is at least 10 feet by 10 feet, with a minimum height of 6 feet. The enclosure should also have plenty of hiding places and enrichment items, such as logs, branches, and toys.

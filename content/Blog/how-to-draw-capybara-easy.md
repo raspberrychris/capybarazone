@@ -1,5 +1,5 @@
 ---
-title: How-To-Draw-Capybara-Easy
+title: How To Draw Capybara Easy
 ---
 
 Drawing a capybara can be easy with the right steps. Here are some tips to help you draw a capybara:

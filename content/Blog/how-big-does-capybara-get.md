@@ -1,5 +1,5 @@
 ---
-title: How-Big-Does-Capybara-Get
+title: How Big Does Capybara Get
 ---
 
 The capybara is the largest living rodent in the world, and can grow to be quite large. On average, capybaras reach lengths of around 4 feet (1.2 meters) and weigh between 66 and 154 pounds (30-70 kg). They have a stout body, short head, and small ears and eyes. Their fur is thick and coarse, and can range from reddish-brown to yellowish-brown in color.

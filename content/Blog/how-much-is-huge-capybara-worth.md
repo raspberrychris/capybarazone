@@ -1,5 +1,5 @@
 ---
-title: How-Much-Is-Huge-Capybara-Worth
+title: How Much Is Huge Capybara Worth
 ---
 
 The exact worth of a huge capybara is difficult to determine, as there are many factors that can influence the value of an animal. The size of the capybara, its age, health, and other characteristics all play a role in determining its worth. Additionally, where the capybara is located and who is selling it can also affect the price. 

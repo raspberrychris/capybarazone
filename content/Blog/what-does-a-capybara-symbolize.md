@@ -1,5 +1,5 @@
 ---
-title: What-Does-A-Capybara-Symbolize
+title: What Does A Capybara Symbolize
 ---
 
 The capybara is a large, semi-aquatic rodent native to South America. It is the largest living rodent in the world and is often referred to as a "giant guinea pig". This animal has become a symbol of many things in different cultures throughout the world.

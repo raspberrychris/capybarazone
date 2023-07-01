@@ -1,5 +1,5 @@
 ---
-title: How-To-Pronounce-Capybara
+title: How To Pronounce Capybara
 ---
 
 Capybara is pronounced "kuh-PIE-bar-uh". It is a large, semi-aquatic mammal native to South America. It is the largest living rodent in the world, growing up to four feet in length and weighing up to 140 pounds. Capybaras have short, reddish-brown fur and a large head with small ears. They have webbed feet and a short, stubby tail. They are excellent swimmers, and can stay submerged for up to five minutes. They are herbivores, and their diet consists mainly of grasses, aquatic plants, and fruits.

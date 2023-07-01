@@ -1,5 +1,5 @@
 ---
-title: What-Do-Capybara-Eat
+title: What Do Capybara Eat
 ---
 
 Capybaras are herbivores, meaning they primarily eat plants. They are grazers, meaning they feed on grasses, aquatic plants, and fruit. They also eat leaves, stems, and bark. In the wild, they can be found grazing in fields, marshes, and along riverbanks.

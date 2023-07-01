@@ -1,5 +1,5 @@
 ---
-title: How-Much-Capybara-Cost-Texas
+title: How Much Capybara Cost Texas
 ---
 
 The cost of a capybara in Texas can vary greatly depending on where you purchase it from and the age and health of the animal. Generally, a capybara purchased from a breeder can cost anywhere from $1,500 to $2,500. If you are looking to adopt a capybara, the cost can range from $250 to $500, depending on the adoption agency. 

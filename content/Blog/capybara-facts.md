@@ -1,7 +1,7 @@
 ---
 title: "Capybara Facts"
 description: "Capybara facts"
-
+toc: true
 cascade:
   showDate: false
   showAuthor: false

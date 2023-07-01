@@ -1,5 +1,5 @@
 ---
-title: Discover-Capybara-Date
+title: Discover Capybara Date
 ---
 
 The capybara (Hydrochoerus hydrochaeris) is a large, semi-aquatic rodent native to South America. It is the largest living rodent in the world, and is closely related to guinea pigs and rock cavies. It is believed that the capybara was first discovered by Europeans in the early 1500s, when Spanish explorers encountered them in the wild in what is now Venezuela. However, it is likely that the native people of South America had known about the capybara for centuries before that.

@@ -1,6 +1,7 @@
 ---
 title: "Capybara Lifestyle"
 description: "Capybara lifestyle"
+toc: true
 
 cascade:
   showDate: false

@@ -1,5 +1,5 @@
 ---
-title: What-Does-A-Capybara-Eat
+title: What Does A Capybara Eat
 ---
 
 A capybara is a large, semi-aquatic rodent native to South America. It is the largest rodent in the world, weighing up to 140 pounds and measuring up to four feet in length. 

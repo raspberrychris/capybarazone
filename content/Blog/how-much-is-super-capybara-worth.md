@@ -1,5 +1,5 @@
 ---
-title: How-Much-Is-Super-Capybara-Worth
+title: How Much Is Super Capybara Worth
 ---
 
 The exact value of a super capybara is difficult to determine, as the market for these animals is relatively small. Generally speaking, however, a super capybara can be worth anywhere from a few hundred dollars to several thousand dollars, depending on the individual animal, its age, and its health. 

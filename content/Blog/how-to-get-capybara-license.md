@@ -1,5 +1,5 @@
 ---
-title: How-To-Get-Capybara-License
+title: How To Get Capybara License
 ---
 
 In order to obtain a capybara license, you must first meet certain requirements. Depending on the state or country you live in, these requirements may vary. Generally, you must be at least 18 years of age and have a valid driver’s license. You must also have a clean driving record and no criminal history.

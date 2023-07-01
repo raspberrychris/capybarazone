@@ -1,5 +1,5 @@
 ---
-title: How-Much-Capybara-Worth-Pet-Sim-X
+title: How Much Capybara Worth Pet Sim X
 ---
 
 The exact worth of a capybara in Pet Sim X is difficult to determine, as the game does not provide an exact monetary value for any of its pets. However, the cost of a capybara in Pet Sim X is likely to be quite high, as they are one of the rarest and most sought-after pets in the game. 

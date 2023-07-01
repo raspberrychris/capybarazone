@@ -1,6 +1,7 @@
 ---
 title: "How to take care of a capybara"
 description: "How to take care of a capybara"
+toc: true
 
 cascade:
   showDate: false

@@ -1,5 +1,5 @@
 ---
-title: Legal-Own-Capybara
+title: Legal Own Capybara
 ---
 
 It is legal to own a capybara in some areas of the United States, including some states such as Texas, Florida, and Pennsylvania. However, owning a capybara is not legal in all states, and it is important to check with your local laws before attempting to purchase or keep one as a pet. In some states, capybaras are considered exotic animals and require a permit to own, while other states may have restrictions on the size of the enclosure or the number of animals that can be kept.

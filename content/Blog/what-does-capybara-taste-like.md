@@ -1,5 +1,5 @@
 ---
-title: What-Does-Capybara-Taste-Like
+title: What Does Capybara Taste Like
 ---
 
 Capybara, the world's largest rodent, is a semi-aquatic mammal native to South America. Despite its size, it is an herbivore and feeds mainly on grasses, aquatic plants, and fruit. As such, it is not typically eaten by humans, so there is no consensus on what capybara tastes like. 

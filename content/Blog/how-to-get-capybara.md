@@ -1,5 +1,5 @@
 ---
-title: How-To-Get-Capybara
+title: How To Get Capybara
 ---
 
 Getting a capybara can be a rewarding experience, but it is important to understand the commitment involved before taking the plunge. 

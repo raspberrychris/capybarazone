@@ -1,5 +1,5 @@
 ---
-title: Own-Capybara-Pet
+title: Own Capybara Pet
 ---
 
 Owning a capybara can be a rewarding experience, but it is important to understand that these animals require a great deal of care and attention. Capybaras are native to South America and are the largest living rodent in the world. They are social animals and typically live in groups in the wild, so they need companionship and interaction to be healthy and happy. 

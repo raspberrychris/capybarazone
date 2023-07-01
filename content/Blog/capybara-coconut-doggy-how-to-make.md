@@ -1,5 +1,5 @@
 ---
-title: Capybara-Coconut-Doggy-How-To-Make
+title: Capybara Coconut Doggy How To Make
 ---
 
 Making a Capybara Coconut Doggy is a fun and easy way to create a unique and delicious treat! 

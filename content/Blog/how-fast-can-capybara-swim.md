@@ -1,5 +1,5 @@
 ---
-title: How-Fast-Can-Capybara-Swim
+title: How Fast Can Capybara Swim
 ---
 
 Capybaras are excellent swimmers and can swim at speeds of up to 5 miles per hour (8 km/h). They are well adapted to aquatic environments and can stay underwater for up to five minutes at a time. They use their webbed feet to propel themselves through the water and their large, flat tails to steer. They can also use their front legs to paddle and their back legs to push off the bottom of the water.

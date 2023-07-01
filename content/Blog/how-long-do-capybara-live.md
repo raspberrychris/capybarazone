@@ -1,5 +1,5 @@
 ---
-title: How-Long-Do-Capybara-Live
+title: How Long Do Capybara Live
 ---
 
 Capybaras are the world’s largest rodents and can live up to 8-10 years in the wild. In captivity, they can live up to 12-15 years. The average lifespan of a capybara is around 8-10 years, although some have been known to live longer than this. 

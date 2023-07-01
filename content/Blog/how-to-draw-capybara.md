@@ -1,5 +1,5 @@
 ---
-title: How-To-Draw-Capybara
+title: How To Draw Capybara
 ---
 
 Drawing a capybara can be a fun and rewarding experience. The first step is to gather your supplies. You will need a pencil, paper, eraser, and a reference image of a capybara. Once you have all of your supplies, you can begin.

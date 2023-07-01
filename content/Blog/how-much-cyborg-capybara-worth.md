@@ -1,5 +1,5 @@
 ---
-title: How-Much-Cyborg-Capybara-Worth
+title: How Much Cyborg Capybara Worth
 ---
 
 The value of a cyborg capybara is highly dependent on a variety of factors. For example, the type of cyborg technology used, the quality of the parts, the level of customization, and the overall condition of the animal all play a role in determining the price. Generally speaking, a cyborg capybara can cost anywhere from a few hundred dollars to several thousand dollars, depending on the aforementioned factors. 

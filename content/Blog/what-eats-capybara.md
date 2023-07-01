@@ -1,5 +1,5 @@
 ---
-title: What-Eats-Capybara
+title: What Eats Capybara
 ---
 
 Capybaras are large rodents native to South America and are the largest living rodent in the world. They are herbivores, which means they mainly eat grasses, aquatic plants, fruits, and tree bark. They also eat their own feces, which helps them to digest their food more efficiently. 

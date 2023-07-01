@@ -1,5 +1,5 @@
 ---
-title: How-Long-Does-Capybara-Live
+title: How Long Does Capybara Live
 ---
 
 The average lifespan of a capybara is around 4 to 8 years in the wild, though they can live up to 10 years in captivity. In the wild, capybaras are subject to predation from jaguars, ocelots, caimans, and anacondas, as well as humans. Disease, starvation, and dehydration can also reduce their lifespan.

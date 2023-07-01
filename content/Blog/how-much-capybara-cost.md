@@ -1,5 +1,5 @@
 ---
-title: How-Much-Capybara-Cost
+title: How Much Capybara Cost
 ---
 
 A capybara is a large rodent native to South America that is becoming increasingly popular as a pet. They are the largest rodent in the world, and can grow up to 2 feet tall and weigh up to 140 pounds. The cost of a capybara can vary greatly depending on where you purchase it, the age of the animal, and the type of care it will need. 

@@ -1,5 +1,5 @@
 ---
-title: What-Is-A-Capybara-Worth-In-Adopt-Me-2022
+title: What Is A Capybara Worth In Adopt Me 2022
 ---
 
 A capybara is a large rodent native to South America that is often kept as a pet. They are social animals and can be quite affectionate with their owners. In Adopt Me 2022, the value of a capybara will depend on several factors, such as its age, health, and temperament. Generally, capybaras are valued for their unique appearance and personality, so a well-cared-for capybara that is healthy and has a good temperament can be worth quite a bit. 
