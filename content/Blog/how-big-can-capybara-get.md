@@ -1,5 +1,5 @@
 ---
-title: How-Big-Can-Capybara-Get
+title: How Big Can Capybara Get
 ---
 
 A capybara can grow to be quite large. The average capybara can reach lengths of up to 4 feet (1.2 meters) and weigh up to 140 pounds (64 kilograms). The largest capybara ever recorded was approximately 5 feet (1.5 meters) long and weighed around 200 pounds (90 kilograms).

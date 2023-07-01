@@ -1,5 +1,5 @@
 ---
-title: How-Big-Are-Capybara
+title: How Big Are Capybara
 ---
 
 Capybara are the largest rodents in the world, and they can grow to be quite large. The average adult capybara measures around 4 feet long and can weigh up to 140 pounds. They are stocky animals with short legs, a large head, and a short, thick tail. The fur of a capybara is usually a reddish-brown color, and they have webbed feet to help them swim. 

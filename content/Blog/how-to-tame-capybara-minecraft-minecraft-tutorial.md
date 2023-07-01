@@ -1,5 +1,5 @@
 ---
-title: How-To-Tame-Capybara-Minecraft-Minecraft-Tutorial
+title: How To Tame Capybara Minecraft Minecraft Tutorial
 ---
 
 Taming a Capybara in Minecraft can be a tricky task, but it is possible. The first step to taming a Capybara is to find one. Capybaras spawn in the Savannah and Savanna Plateau biomes. Once you have found a Capybara, you will need to feed it. You can do this by giving it any type of vegetable. Carrots, potatoes, and wheat are all good options. Once the Capybara has eaten the food, it will become tame.

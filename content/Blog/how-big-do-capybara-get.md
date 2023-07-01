@@ -1,5 +1,5 @@
 ---
-title: How-Big-Do-Capybara-Get
+title: How Big Do Capybara Get
 ---
 
 Capybaras are the world's largest rodents, and they can grow to be quite large. The average capybara measures between 40 and 60 cm (16-24 in) in height, and can weigh up to 65 kg (143 lb). They have a barrel-shaped body, short legs, and a large head with small ears and eyes. Their fur is usually a reddish-brown color, and they have a white or yellow muzzle.

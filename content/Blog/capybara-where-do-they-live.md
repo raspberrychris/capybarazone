@@ -1,5 +1,5 @@
 ---
-title: Capybara-Where-Do-They-Live
+title: Capybara Where Do They Live
 ---
 
 Capybaras are semi-aquatic rodents native to South America, primarily found in and around bodies of water. They inhabit a variety of different habitats, including marshes, swamps, rivers, lakes, and flooded grasslands. Capybaras are the largest rodents in the world, and can weigh up to 140 pounds.

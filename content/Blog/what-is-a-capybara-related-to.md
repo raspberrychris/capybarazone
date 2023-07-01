@@ -1,5 +1,5 @@
 ---
-title: What-Is-A-Capybara-Related-To
+title: What Is A Capybara Related To
 ---
 
 A capybara (Hydrochoerus hydrochaeris) is a large rodent native to South America. It is the largest living rodent in the world, and is closely related to guinea pigs, chinchillas, and agoutis. Capybaras are semi-aquatic, and can be found near bodies of water such as rivers, streams, and ponds. They are also excellent swimmers, and can even hold their breath underwater for up to five minutes.

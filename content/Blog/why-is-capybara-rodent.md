@@ -1,5 +1,5 @@
 ---
-title: Why-Is-Capybara-Rodent
+title: Why Is Capybara a Rodent
 ---
 
 A capybara is a large, semi-aquatic rodent native to South America. It is the largest living rodent in the world, with adults reaching sizes of up to 4 feet long and weighing up to 140 pounds. Capybaras are a member of the Caviidae family, which includes guinea pigs, chinchillas, and agoutis.

@@ -1,5 +1,5 @@
 ---
-title: Adopt-Capybara
+title: Adopt Capybara
 ---
 
 If you’re looking to adopt a capybara, you’re in luck! Capybaras are becoming increasingly popular as exotic pets, and there are several ways to find one. 
