@@ -3,7 +3,7 @@ languageName = "English"
 weight = 1
 
 title = "Capybara Zone"
-copyright = "Copyright Capybara Zone"
+copyright = "Copyright 2023 Capybara Zone"
 
 [params]
   isoCode = "en"
