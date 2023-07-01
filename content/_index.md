@@ -6,6 +6,8 @@ description: >-
 
 ## Capabara Zone: Dive into the World of Giant Rodents! 🌿
 
+![capybara-photo
+](img/capybara-photo.jpg)
 The land of Capybaras awaits you, where curiosity and learning go hand in paw. Capybara Zone is your one-stop destination for discovering [fascinating facts about capybaras](/blog/capybara-facts), adorable pictures, and incredible tales about the [world's largest rodent](/blog/worlds-largest-rodent)—the captivating Capybara!
 
 At Capybara Zone, we believe that learning should be fun, engaging, and accessible for everyone, including our little explorers. Our mission is to create a safe and exciting digital space where children can dive into the captivating world of Capybaras and expand their knowledge of these extraordinary creatures.
