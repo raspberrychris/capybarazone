@@ -24,6 +24,8 @@ So, grab your explorer's hat, unleash your curiosity, and get ready for an unfor
 
 Yes, Capybaras are generally known for their friendly and sociable nature. They are highly social animals and have a reputation for being gentle and tolerant, both with other Capybaras and with different species. In their native habitats in South America, Capybaras often live in large groups, forming close-knit communities.
 
+{{< youtube CdMUOsf2QNc >}}
+
 Capybaras are known to be very accepting of other animals and often share their habitats with various species, including birds, turtles, and even caimans. They display remarkable patience and have been observed interacting positively with other animals, often allowing them to perch or rest on their backs.
 
 In terms of human interaction, Capybaras can also exhibit a friendly demeanor. They are known to enjoy gentle petting and can form strong bonds with their human caretakers when properly socialized. However, it's important to note that Capybaras are still wild animals, and their individual temperaments can vary. It's crucial to always approach them with respect, maintaining a safe distance and seeking permission from their owners or caretakers before attempting any interaction.
