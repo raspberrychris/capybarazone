@@ -1,5 +1,5 @@
 ---
-title: Where-Can-I-Pet-A-Capybara
+title: Where Can I Pet A Capybara
 ---
 
 If you are looking to pet a capybara, you have a few options. Depending on where you live, you may be able to find a zoo or wildlife sanctuary that has capybaras. These places usually have staff on hand to help you interact with the animals in a safe and responsible way. 

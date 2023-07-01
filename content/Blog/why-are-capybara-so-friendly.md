@@ -1,5 +1,5 @@
 ---
-title: Why-Are-Capybara-So-Friendly
+title: Why Are Capybara So Friendly
 ---
 
 Capybara are one of the most friendly animals in the world, and it's no surprise why. They are naturally social creatures and enjoy spending time with other animals and humans alike. They are also very curious and playful, which makes them great companions.

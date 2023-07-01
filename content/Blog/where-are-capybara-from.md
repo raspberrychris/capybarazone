@@ -1,5 +1,5 @@
 ---
-title: Where-Are-Capybara-From
+title: Where Are Capybara From
 ---
 
 Capybara are native to South America and are found in the tropical rainforests, savannas, and wetlands of Brazil, Paraguay, Uruguay, Colombia, Venezuela, Ecuador, Peru, Bolivia, and Argentina. They are the largest living rodent in the world and can weigh up to 140 pounds.

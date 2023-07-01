@@ -1,5 +1,5 @@
 ---
-title: Where-Can-You-Find-Capybara
+title: Where Can You Find Capybara
 ---
 
 Capybaras are the largest living rodent species in the world and can be found in a variety of habitats throughout much of South America. They are semi-aquatic animals and are often found near bodies of water such as rivers, streams, ponds, and lakes. They are also known to inhabit marshes, swamps, and flooded areas. In addition to these wetland habitats, capybaras can also be found in grasslands, savannas, and even forests.

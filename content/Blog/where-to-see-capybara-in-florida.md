@@ -1,11 +1,30 @@
 ---
-title: Where-To-See-Capybara-In-Florida
+title: "Where can I see a capybara in Florida? (Our top choices)"
+description: "Where can I see a capybara in Florida?"
+toc: true
+
+cascade:
+  showDate: false
+  showAuthor: false
+  invertPagination: true
 ---
 
-Capybara are native to South America, but can be found in Florida if you know where to look. The best places to spot them are in the Everglades National Park, the Big Cypress National Preserve, and the Florida Panther National Wildlife Refuge. These areas are all home to a large population of capybara, and they can often be seen along the edges of the water or in the grassy areas. Additionally, the Fakahatchee Strand Preserve State Park is another great place to see capybara, as they are often seen in the marshes and wetlands. 
+## Where can I see a capybara in Florida? - Our best picks!
 
-If you’re looking to spot capybara in Florida, the best time to do so is during the wet season, which typically lasts from May to October. During this time, the capybara will be more active and more likely to be seen. Additionally, it’s important to remember that capybara are most active at dawn and dusk, so it’s best to plan your trip accordingly. 
+{{< alert >}}
+Please note that it's always a good idea to check the websites or contact these places in advance to confirm the availability of capybaras and their exhibit viewing hours, as they may be subject to change.
+{{< /alert >}}
 
-When visiting the areas mentioned above, it’s important to remember to keep a respectful distance from the capybara. They are wild animals and can be dangerous if provoked, so it’s important to keep a safe distance and to never attempt to approach or touch them. Additionally, it’s important to remember to never feed the capybara, as this can cause them to become dependent on humans for food and can lead to health problems. 
+In Florida, you can see capybaras in several wildlife parks, zoos, and animal sanctuaries. Here are a few places where you might have the opportunity to see capybaras:
 
-Overall, if you’re looking to spot capybara in Florida, the best places to do so are the Everglades National Park, the Big Cypress National Preserve, the Florida Panther National Wildlife Refuge, and the Fakahatchee Strand Preserve State Park. Remember to plan your trip during the wet season, and to keep a respectful distance from the capybara. With a bit of luck, you
+1. [**Zoo Miami (Miami)**](https://www.zoomiami.org/): Zoo Miami is the largest and oldest zoological garden in Florida. They have a diverse collection of animals, including capybaras, which you can observe in their exhibits.
+
+2. [**Jungle Island (Miami)**](https://www.jungleisland.com/): Jungle Island is an interactive zoological park that offers various animal encounters and exhibits. They have capybaras among their animal residents, and you can often see them during your visit.
+
+3. [**Santa Fe College Teaching Zoo (Gainesville)**](https://www.sfcollege.edu/zoo/): The Santa Fe College Teaching Zoo is a teaching facility that provides hands-on training for students studying zoo animal technology. They have capybaras as part of their animal collection, and visitors can see them during certain hours.
+
+4. [**Everglades Wonder Gardens (Bonita Springs)**](https://wondergardens.org/): Everglades Wonder Gardens is a historic wildlife park that showcases a variety of native Florida wildlife. They have a capybara exhibit where visitors can observe these fascinating creatures.
+
+5. **Dade City's Wild Things (Dade City)** (NOTE: NOW PERMANENTLY CLOSED): Dade City's Wild Things is an animal sanctuary and zoo that offers interactive animal encounters and educational tours. They have capybaras as part of their animal collection, and visitors may have the chance to see them up close.
+
+

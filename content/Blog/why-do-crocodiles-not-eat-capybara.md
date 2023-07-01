@@ -1,5 +1,5 @@
 ---
-title: Why-Do-Crocodiles-Not-Eat-Capybara
+title: Why Do Crocodiles Not Eat Capybara
 ---
 
 Crocodiles and capybaras are both semi-aquatic animals that inhabit the same regions in Central and South America. However, crocodiles do not typically eat capybaras. This is likely due to a combination of factors.

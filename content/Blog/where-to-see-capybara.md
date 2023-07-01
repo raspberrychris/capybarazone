@@ -1,5 +1,5 @@
 ---
-title: Where-To-See-Capybara
+title: Where To See Capybara
 ---
 
 Capybara is a large rodent native to South America. It is the largest living rodent in the world, and is easily recognized by its distinctive appearance. Capybara can be found in many different habitats, including grasslands, marshes, and rivers. They are usually found in groups of up to 20 individuals, and prefer to live in areas with plenty of water.

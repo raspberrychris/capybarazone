@@ -1,5 +1,5 @@
 ---
-title: Where-Can-I-Pet-A-Capybara-In-Texas
+title: Where Can I Pet A Capybara In Texas
 ---
 
 In Texas, it is not legal to own a capybara as a pet. However, there are a few places in Texas where you can go to pet a capybara. One such place is the Houston Zoo, which has a capybara exhibit that allows visitors to interact with the animals. The San Antonio Zoo also has a capybara exhibit, and visitors can interact with the animals there as well. Additionally, there are a few private animal sanctuaries in Texas that have capybaras and allow visitors to pet them. These sanctuaries are usually located on large properties and are not open to the public, but they can be visited with prior arrangement. Finally, there are a few private breeders in Texas that specialize in capybaras and may allow visitors to pet their animals. However, these breeders are few and far between, and it is important to do research and ensure that any animals you encounter are being kept in a safe and humane environment.

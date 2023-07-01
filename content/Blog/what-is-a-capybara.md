@@ -1,5 +1,5 @@
 ---
-title: What-Is-A-Capybara
+title: What Is A Capybara
 ---
 
 A capybara is a large, semi-aquatic rodent native to South America. It is the largest living rodent in the world, weighing up to 140 pounds and measuring up to 4 feet in length. Capybaras are excellent swimmers and can remain submerged underwater for up to five minutes. They are also excellent climbers and can be found in a variety of habitats, from grasslands to wetlands. 

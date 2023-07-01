@@ -1,5 +1,5 @@
 ---
-title: Where-Are-Capybara-Located
+title: Where Are Capybara Located
 ---
 
 Capybaras are found throughout much of South America, including parts of Brazil, Colombia, Venezuela, Peru, Ecuador, Bolivia, Paraguay, Uruguay, and Argentina. They inhabit a variety of habitats, such as grasslands, swamps, marshes, and forests, and can be found near rivers, streams, and ponds. They are well adapted to life in and around water, and can even swim and dive. They are also found in agricultural areas, as they are known to feed on crops such as sugar cane, melons, and squash.

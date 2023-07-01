@@ -1,5 +1,5 @@
 ---
-title: Where-To-Pet-Capybara
+title: Where To Pet Capybara
 ---
 
 Capybaras are semi-aquatic mammals native to South America, and they are the largest living rodent in the world. They are typically found in the wild near bodies of water such as rivers, streams, and lakes, and they are also kept as pets in some areas.

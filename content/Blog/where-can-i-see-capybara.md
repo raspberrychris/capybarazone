@@ -1,5 +1,5 @@
 ---
-title: Where-Can-I-See-Capybara
+title: Where Can I See Capybara
 ---
 
 You can see a capybara in its native habitat, which is South America. In particular, they are found in the tropical rainforests, swamps, and grasslands of Brazil, Venezuela, Colombia, Peru, and other countries in that region. They are also found in some parts of Central America, including Panama.

@@ -1,6 +1,7 @@
 ---
 title: "World's largest rodent"
 description: "World's largest rodent"
+toc: true
 
 cascade:
   showDate: false

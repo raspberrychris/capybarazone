@@ -1,5 +1,5 @@
 ---
-title: Why-Are-Capybara-So-Chill
+title: Why Are Capybara So Chill
 ---
 
 Capybaras are some of the most chill animals on the planet! They are native to South America and are the largest rodent in the world. They are semi-aquatic, meaning they spend a lot of time in and around water, and they are very social animals. 

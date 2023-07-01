@@ -1,5 +1,5 @@
 ---
-title: Where-To-Find-Capybara
+title: Where To Find Capybara
 ---
 
 Capybara can be found in a variety of habitats, including tropical rainforests, grasslands, swamps, and rivers. They are native to South America, but they have been introduced to other parts of the world, including the United States.

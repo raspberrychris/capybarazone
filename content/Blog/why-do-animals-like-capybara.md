@@ -1,5 +1,5 @@
 ---
-title: Why-Do-Animals-Like-Capybara
+title: Why Do Animals Like Capybara
 ---
 
 Animals like capybara for a variety of reasons. First, capybara are incredibly social animals, forming strong bonds with their family groups and even with humans. This makes them great companions for other animals, as they are very affectionate and loyal. 
