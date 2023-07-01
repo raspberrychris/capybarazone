@@ -3,7 +3,7 @@ languageName = "English"
 weight = 1
 
 title = "Capybara Zone"
-# copyright = "Copy, _right?_ :thinking_face:"
+copyright = "Copyright Capybara Zone"
 
 [params]
   isoCode = "en"
