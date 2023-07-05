@@ -1,0 +1,5 @@
+---
+title: Is It Legal To Own A Capybara In Missouri
+---
+
+The answer to this question is that it is not legal to own a capybara in Missouri. Capybaras are classified as exotic animals, and the state of Missouri has strict regulations regarding the ownership of exotic animals. According to the Missouri Department of Conservation, it is illegal to own any exotic animal, including capybaras, without a permit. The permit process is lengthy and requires a significant amount of paperwork and documentation. Additionally, the applicant must demonstrate that they have the proper facilities and expertise to care for the animal. Even if the applicant is able to obtain a permit, they must also obtain a license from the USDA and meet all of the requirements for housing and care of the animal. For these reasons, it is not legal to own a capybara in Missouri.

@@ -1,0 +1,5 @@
+---
+title: Is It Legal To Own A Capybara In Massachusetts
+---
+
+No, it is not legal to own a capybara in Massachusetts. Capybaras are considered an exotic animal and are not allowed to be kept as pets in the state. Massachusetts has strict laws regarding the ownership of exotic animals, and capybaras are not among the animals that are allowed to be kept as pets. In addition, the Massachusetts Department of Agriculture has classified capybaras as a “dangerous wild animal”, meaning that they are not allowed to be kept as pets in the state. Furthermore, the Massachusetts Department of Fish and Wildlife has also stated that it is illegal to possess, import, or transport capybaras in the state. These regulations are in place to protect the safety of both the animal and the public. Therefore, it is not legal to own a capybara in Massachusetts.
