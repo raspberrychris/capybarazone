@@ -21,9 +21,9 @@ export default defineConfig({
   schema: {
     collections: [
       {
-        name: "Capybaraasapet",
-        label: "Capybaraasapet",
-        path: "content/Capybaraasapet",
+        name: "post",
+        label: "Posts",
+        path: "content/posts",
         fields: [
           {
             type: "string",
