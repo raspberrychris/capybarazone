@@ -5,8 +5,8 @@ const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
 
 export default defineConfig({
   branch,
-  clientId: "3fe0ddb4-6c37-4395-a37c-e7d189615783", // Get this from tina.io
-  token: "344922bd48bf8bd5205174fb0ba220bb64ed679f", // Get this from tina.io
+  clientId: "aa07706d-25aa-4100-8756-febf5231e865", // Get this from tina.io
+  token: "49494e542a73c43eeb09a43415f5d811ce3b5617", // Get this from tina.io
 
   build: {
     outputFolder: "admin",
@@ -21,9 +21,9 @@ export default defineConfig({
   schema: {
     collections: [
       {
-        name: "post",
-        label: "Posts",
-        path: "content/posts",
+        name: "Blog",
+        label: "Blog",
+        path: "content/Blog",
         fields: [
           {
             type: "string",
