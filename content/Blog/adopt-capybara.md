@@ -12,4 +12,4 @@ You can also look online for capybaras available for adoption. There are several
 
 Finally, you can check your local classifieds or pet stores. Some pet stores may have capybaras available for adoption, or you may be able to find one through a classified ad. 
 
-No matter which option you choose, be sure to do your research and make sure you’re prepared to provide a safe and loving home for your new capybara.
+No matter which option you choose, be sure to do your research and make sure you’re prepared to provide a safe and loving home for your new capybara..

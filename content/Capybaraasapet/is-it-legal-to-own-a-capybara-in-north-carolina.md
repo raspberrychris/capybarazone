@@ -1,5 +1,0 @@
----
-title: Is It Legal To Own A Capybara In North Carolina
----
-
-No, it is not legal to own a capybara in North Carolina. Capybaras are classified as exotic animals, which means that it is illegal to own them in the state. According to the North Carolina Department of Agriculture and Consumer Services, it is illegal to possess, sell, import, or export any wild or exotic animal without a permit. This includes capybaras, which are classified as exotic animals. Furthermore, the Department of Agriculture and Consumer Services has a list of prohibited species, which includes capybaras. This means that it is illegal to own a capybara in North Carolina, and anyone found in possession of one could face criminal charges. Additionally, it is important to note that even if a person were to obtain a permit to own a capybara, it would be difficult to find a veterinarian in the state who is qualified to provide proper care for the animal.

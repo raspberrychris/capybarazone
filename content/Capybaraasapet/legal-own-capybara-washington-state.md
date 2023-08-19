@@ -1,5 +1,0 @@
----
-title: Is It Legal To Own A Capybara In Washington State
----
-
-No, it is not legal to own a capybara in Washington State. According to the Washington Department of Fish and Wildlife, the capybara is classified as a large, exotic rodent and is not allowed to be kept as a pet in the state. The capybara is native to South America and is not considered to be a domesticated animal, so it is not suitable for captivity. In addition, the capybara is a large animal and can grow up to four feet in length and weigh up to 140 pounds, which makes it difficult to care for as a pet. Furthermore, the capybara is a social animal and needs to be kept in groups, which can be difficult to do in captivity. Finally, the capybara is an herbivore and requires a specialized diet that is difficult to provide in captivity. For these reasons, it is not legal to own a capybara in Washington State.

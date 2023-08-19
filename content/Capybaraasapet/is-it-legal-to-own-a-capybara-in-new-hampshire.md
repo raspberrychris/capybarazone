@@ -1,5 +1,0 @@
----
-title: Is It Legal To Own A Capybara In New Hampshire
----
-
-It is not legal to own a capybara in New Hampshire. The state has strict regulations regarding the ownership of exotic animals, and capybaras are classified as an exotic animal. According to New Hampshire's Fish and Game Department, any person who keeps, possesses, or transports any wild animal, including a capybara, must obtain a permit from the department. The permit is only issued for educational, scientific, or exhibition purposes. The department also requires that all exotic animals be kept in a secure enclosure that is designed to prevent the animal from escaping. Additionally, the owner must provide the animal with adequate food, water, shelter, and veterinary care. Furthermore, the owner must also comply with all applicable local laws and ordinances. Therefore, it is not legal to own a capybara in New Hampshire without the proper permits and enclosures.
